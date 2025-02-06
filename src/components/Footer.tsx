@@ -4,6 +4,7 @@ const Footer = () => {
             <div className="container mx-auto flex flex-col md:flex-row items-center justify-between p-5">
                 <span className="text-3xl text-white font-bold tracking-tight">
                     MernEats.com
+                    <span className="flex flex-row font-light text-sm">Project by Muhaimin Hossain</span>
                 </span>
                 <span className="text-white font-bold tracking-tight flex gap-4">
                     <span>Privacy Policy</span>
